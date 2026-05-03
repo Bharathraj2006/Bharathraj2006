@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+smart+systems+%F0%9F%A4%96;Open+to+collaborations!" alt="Typing SVG" />
 </p>
 
----
 
 ## 🙋‍♂️ About Me
 
@@ -18,7 +17,6 @@
 - 🏆 Active hackathon participant — **SIH 2025**, **IBMZ Datathon 2024 & 2025**
 - 📫 Reach me at **bharathrajoff@gmail.com**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +58,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
----
 
 <p align="center">
   <em>"Building intelligent systems, one model at a time."</em>
