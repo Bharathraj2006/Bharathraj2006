@@ -18,11 +18,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at Saveetha Engineering College *(CGPA: 8.9)*
-- 💼 Ex **AI Intern @ Retech Solutions Pvt Ltd** — improved ML model accuracy by up to **20%**
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at Saveetha Engineering College
+- 💼 Ex **AI Intern @ Retech Solutions Pvt Ltd**
 - 🔭 Passionate about **Machine Learning, Deep Learning, NLP & Computer Vision**
 - 🏆 Active hackathon participant — **SIH 2025**, **IBMZ Datathon 2024 & 2025**
-- 📍 Based in **Chennai, Tamil Nadu, India**
 - 📫 Reach me at **bharathrajoff@gmail.com**
 
 ---
@@ -68,26 +67,6 @@
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
 ---
-
-## 🚀 Featured Projects
-
-### 🩺 DiagnoseMe — Disease Predictor
-> ML-based disease prediction system achieving **90% classification accuracy** on symptom datasets.
-
-- Built an end-to-end ML pipeline: preprocessing → feature engineering → model training → evaluation
-- Deployed as an interactive **Streamlit** web app with real-time disease prediction and precautionary insights
-- **Stack:** `Python` `Scikit-learn` `Pandas` `Streamlit`
-
----
-
-### 🎵 Multimodal Emotion-Aware Music Recommendation System
-> A smart system that detects your emotion and recommends music — combining face and voice analysis.
-
-- Integrated **facial** and **speech** emotion recognition using **Swin Transformer** & **WavLM**
-- Developed a personalized music recommendation engine based on detected emotional states
-- Built a full-stack web app with **Flask** backend for real-time emotion analysis
-- **Stack:** `Python` `PyTorch` `Transformers` `OpenCV` `Flask`
-
 
 <p align="center">
   <em>"Building intelligent systems, one model at a time."</em>
