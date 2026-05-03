@@ -88,46 +88,6 @@
 - Built a full-stack web app with **Flask** backend for real-time emotion analysis
 - **Stack:** `Python` `PyTorch` `Transformers` `OpenCV` `Flask`
 
----
-
-## 🏆 Hackathons
-
-| Event | Year | Highlight |
-|---|---|---|
-| 🇮🇳 Smart India Hackathon (SIH) | 2025 | AI-based solution for real-world problem; strong evaluator feedback |
-| ⚡ IBMZ Datathon | 2025 | Emotion-aware music recommendation using multimodal inputs |
-| ⚡ IBMZ Datathon | 2024 | Multi-disease prediction system for early health risk identification |
-
----
-
-## 📜 Certifications
-
-- 🎯 **Computer Vision** — OpenCV University
-- 🍃 **Introduction to MongoDB** — MongoDB
-- 📊 **Data Science Fundamentals** — Scaler
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharathrajp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathrajp&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathrajp&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bharathrajp/bharathrajp/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 <p align="center">
   <em>"Building intelligent systems, one model at a time."</em>
