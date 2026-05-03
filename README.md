@@ -1,62 +1,172 @@
-# 👋 Hi, I'm Bharath Raj
+````md id="retro-full"
 
-🎓 B.Tech AI & Data Science @ Saveetha Engineering College (CGPA: 9.0)
-💡 Passionate about AI, Machine Learning, and Backend Development
-🔐 Exploring Cybersecurity & Penetration Testing
+<!-- ================= HEADER ================= -->
+<h1 align="center">🕹️ BharathRaj.exe</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=AI+Engineer+in+Progress...;Machine+Learning+Enthusiast;Deep+Learning+%7C+NLP+%7C+CV;Leveling+Up+Everyday+🚀">
+</p>
 
----
+<p align="center">
+██████╗ ██╗  ██╗██████╗ ███████╗
+██╔══██╗██║  ██║██╔══██╗██╔════╝
+██████╔╝███████║██████╔╝█████╗  
+██╔═══╝ ██╔══██║██╔══██╗██╔══╝  
+██║     ██║  ██║██║  ██║███████╗
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+</p>
 
-## 🚀 About Me
-
-* 💻 AI/ML Enthusiast with hands-on project experience
-* 🧠 Strong in Machine Learning, Deep Learning, NLP & Computer Vision
-* ⚙️ Experienced in building full-stack ML applications
-* 📊 Interested in solving real-world problems using AI
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, Java, C
-**AI/ML:** Scikit-learn, TensorFlow, PyTorch, Transformers
-**Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-**Web/Deployment:** Flask, FastAPI, Streamlit
-**Databases:** MySQL, MongoDB
-**Tools:** Git, GitHub, VS Code, Linux
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-AI%20Developer-00ff00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Level-3rd%20Year-00ff00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/XP-9.0%20CGPA-00ff00?style=for-the-badge">
+</p>
 
 ---
 
-## 📌 Projects
+## 🎮 PLAYER PROFILE
 
-### 🎧 Multimodal Emotion-Aware Music Recommendation System
-
-* Built emotion detection using facial + speech inputs
-* Used Swin Transformer & WavLM models
-* Developed full-stack app using Flask
-* 🔗 [View Project](#)
+``` id="profile"
+Name      : Bharath Raj
+Class     : AI Engineer (In Progress)
+Level     : 3rd Year B.Tech AI & DS
+Location  : Chennai, India
+Focus     : ML | DL | NLP | CV | Backend
+Status    : Grinding 🚀
+````
 
 ---
+
+## ⚔️ SKILL TREE
+
+```id="skills"
+[Programming]
+██████████ Python
+████████░░ Java
+██████░░░░ C
+
+[AI/ML]
+██████████ Machine Learning
+██████████ Deep Learning
+████████░░ Transformers
+███████░░░ NLP
+███████░░░ Computer Vision
+
+[Tools]
+████████░░ PyTorch
+████████░░ TensorFlow
+████████░░ Flask / FastAPI
+████████░░ Streamlit
+███████░░░ SQL / MongoDB
+███████░░░ Git / Linux
+```
+
+---
+
+## 🧩 QUEST LOG (PROJECTS)
+
+### 🎧 Emotion-Aware Music System
+
+```
+Type   : Boss Level Project
+Stack  : PyTorch | Transformers | OpenCV | Flask
+Status : ✅ Completed
+Reward : Real-time emotion-based recommendations
+```
 
 ### 🩺 DiagnoseMe - Disease Predictor
 
-* ML-based disease prediction system
-* Built using Python & Streamlit
-* End-to-end ML pipeline implementation
-* 🔗 [View Project](#)
+```
+Type   : ML System
+Stack  : Python | Scikit-learn | Streamlit
+Status : ✅ Completed
+Reward : Disease prediction using symptoms
+```
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 CURRENT MISSIONS
 
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
----
-
-## 📫 Connect With Me
-
-* 📧 [bharathrajo@gmail.com](mailto:bharathrajo@gmail.com)
-* 🔗 LinkedIn: (Add your link)
+```
+> Learning Transformers & LLMs
+> Building scalable AI systems
+> Exploring Cybersecurity & Backend
+> Preparing for placements ⚡
+```
 
 ---
 
-⭐ “Building intelligent systems that make an impact”
+## 💻 TERMINAL
+
+```id="terminal"
+$ whoami
+> Bharath Raj
+
+$ load_skills
+> Machine Learning ✔
+> Deep Learning ✔
+> NLP ✔
+> Computer Vision ✔
+
+$ current_status
+> Learning | Building | Improving 🚀
+```
+
+---
+
+## 📊 PLAYER STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+</p>
+
+---
+
+## 🧬 CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+</p>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🎮 GAME ZONE (FUN SECTION)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
+</p>
+
+---
+
+## 📡 CONNECT
+
+```id="contact"
+Email    : bharathrajo@gmail.com
+LinkedIn : https://linkedin.com/in/YOUR_LINK
+GitHub   : https://github.com/YOUR_USERNAME
+```
+
+---
+
+## 🏁 GAME STATUS
+
+```
+Mission: Become AI Engineer 🧠
+Progress: █████████░░ 90%
+Next Level: Placement / Internship 🚀
+```
+
+---
+
+<p align="center">
+  ⭐ "Code. Learn. Build. Repeat." ⭐
+</p>
+```
